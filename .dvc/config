@@ -1,0 +1,6 @@
+[core]
+    remote = winedata
+['remote "wineremote"']
+    url = s3://mlops-wine-prediction-mantesh
+['remote "winedata"']
+    url = s3://mlops-wine-prediction-mantesh
